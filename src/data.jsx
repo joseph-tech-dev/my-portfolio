@@ -1,16 +1,16 @@
  export const PROFILE = {
-  name: "J~O~S~E~P~H M~A~I~N~A",
+  name: "JOSEPH MAINA",
   title: "Network Admin | ML Engineer | Full-Stack Developer",
   bio: "I specialize in network administration, machine learning, full-stack development, Python (Django), React(Javascript), RESTful APIs, data analysis, troubleshooting, and IoT devices.",
   photo: import.meta.env.PUBLIC_URL + "/ime.jpg",
   resume: import.meta.env.PUBLIC_URL + "/resume.pdf",
   email: "predatormj.v3@gmail.com",
   phone: "+254 784358625",
-  location: "Muranga, Kenya",
+  location: "Nairobi, Kenya",
   social: {
     github: "https://github.com/joseph-tech-dev",
-    linkedin: "https://linkedin.com/in/josephmaina",
-    twitter: "https://twitter.com/josephmaina"
+    linkedin: "https://linkedin.com/in/joseph-tech-dev",
+    twitter: "https://twitter.com"
   }
 };
 export const SKILLS = [
