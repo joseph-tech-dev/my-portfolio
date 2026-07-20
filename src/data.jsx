@@ -154,7 +154,14 @@ export const PROJECTS = [
     tags: ["Python", "Security", "AI", "Networking"],
     link: "#",
     theme: "yang"
-  }
+  },
+ {
+    title: "Agrimate AI",
+    description: "Bridging the Agricultural Extension Gap: An AI-Powered Bilingual Advisory System for Kenyan Smallholder Farmers",
+    tags: ["Python","LangGraph","Gemini","FastAPI","Docker","React Native","Expo"],
+    link: "#",
+    theme: "yin"
+ }
 ];
 
 export const BLOG_POSTS = [
